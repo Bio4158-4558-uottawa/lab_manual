@@ -1,0 +1,23 @@
+---
+title: |
+  On the R-Way to hell
+
+#include-in-header:
+#  text: |
+#    <meta http-equiv="refresh" content="0; URL=./en/index.html">
+#    <link rel="canonical" href="./en/index.html">
+format:
+  html:
+    toc: false
+    embed-resources: true
+---
+<style>
+.quarto-title-block .quarto-title{
+  text-align: center;
+}
+</style>
+
+[![](images/hex/Rway_logo_hex_en.png){fig-align=center}](https://biostats-uottawa.github.io/Rway/)
+
+
+The lab manual has been integrated to the "R way to Hell" book. Click on the image to go to the new site or use the link <https://biostats-uottawa.github.io/Rway/>
